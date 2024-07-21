@@ -34,4 +34,5 @@ document.addEventListener('DOMContentLoaded', () => {
             addTask();
         }
     });
+    ["classList.add"]
 });
